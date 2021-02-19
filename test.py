@@ -7,7 +7,6 @@ from skimage.exposure import rescale_intensity
 import skimage as skimage
 
 #don't forget to edit path or to paste all the path from root
-path_solve="DATASET/binary_input/"
 path="DATASET/RGB_input/"
 dataset="blizzard/"
 
