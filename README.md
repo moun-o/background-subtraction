@@ -1,6 +1,6 @@
-# background-subtraction
-##background subtraction (Foreground detection) implemented example + dataset 
-##Python + Opencv
+# background-subtraction Python and Opencv
+## background subtraction (Foreground detection) implemented example + dataset 
+## Python + Opencv
  (Computer vision / image processing)
 
 ## Don't forget to
